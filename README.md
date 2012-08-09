@@ -1,7 +1,9 @@
 # RubyConf Australia 2013 Call for Proposals
 
-So, you are interested in giving a talk at the inaugural Ruby conference in Australia? 
-And what better way to submit a talk proposal than via GitHub!
+So, you are interested in giving a talk at [RubyConf Australia 2013](http://rubyconf.org.au), 
+the first ever Ruby conference to be held in Australia? 
+
+What better way to submit a talk proposal than via GitHub! 
 
 ## Here is what to do
 
@@ -13,6 +15,8 @@ And what better way to submit a talk proposal than via GitHub!
    can use to list you on the speakers page when you are accepted.
 5. Create a pull request of your fork
 
-You can add any type of assets to support your proposal inside your
-folder.
+You can add any type of assets to support your proposal inside your folder.
 When a talk gets accepted we will press the lovely green merge button.
+
+Credit: Kudos to [EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and 
+[Sapporo RubyKaigi 2012](https://github.com/sprk2012/sprk2012-cfp) for the idea.
