@@ -18,5 +18,7 @@ What better way to submit a talk proposal than via GitHub!
 You can add any type of assets to support your proposal inside your folder.
 When a talk gets accepted we will press the lovely green merge button.
 
+Note: We are allowing 45 minutes for each talk, including time for setup and questions.
+
 Credit: Kudos to [EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and 
 [Sapporo RubyKaigi 2012](https://github.com/sprk2012/sprk2012-cfp) for the idea.
