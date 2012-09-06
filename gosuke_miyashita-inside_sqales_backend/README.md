@@ -26,7 +26,7 @@ If you are interested in the inside architecture of a cloud application platform
 
 Please see [the detail of my bio.](http://mizzy.org/blog/2011/10/05/1/)
 
-![Profile picture](https://raw.github.com/mizzy/rubyconfau-2013-cfp/inside-sqales-backend/gosuke_miyashita-inside-sqales-backend/profile_picture.jpg)
+![Profile picture](https://raw.github.com/mizzy/rubyconfau-2013-cfp/inside-sqales-backend/gosuke_miyashita-inside_sqales_backend/profile_picture.jpg)
 
 - [Blog](http://mizzy.org/)
 - [Twitter](https://twitter.com/#!/gosukenator)
