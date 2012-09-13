@@ -33,7 +33,7 @@ Topics include:
 
 Ben enjoys speaking at conferences more than damn near anything else. He gets high from teaching, and will soon use you to feed his crippling addiction.
 
-When not demanding that everyone remap caps lock to escape, Ben writes code at thoughtbot, occasionally correctly.
+When not urging everyone to remap caps lock to escape, Ben writes code at thoughtbot, occasionally correctly.
 
 ![Profile picture](https://twimg0-a.akamaihd.net/profile_images/2328987441/pnaoxmvtt3n5zc8irnt4.jpeg)
 
