@@ -14,4 +14,4 @@ Corey Ehmke is a technologist with nearly 20 years of experience in developing f
 
 - [Open Source and Other Projects](http://bantik.github.com/)
 - [Bantik on Twitter](https://twitter.com/Bantik)
-- [Previous Talk Slides](http://www.slideshare.net/coreyehmke/dancing-about-architecture)
+- [Previous Talk Slides](http://www.slideshare.net/coreyehmke)
