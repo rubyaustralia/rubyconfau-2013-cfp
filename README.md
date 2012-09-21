@@ -13,7 +13,12 @@ What better way to submit a talk proposal than via GitHub!
    and about yourself
 4. Replace the `profile_picture.jpg` with a picture of yourself that we
    can use to list you on the speakers page when you are accepted.
-5. Create a pull request of your fork
+5. Create a pull request of your fork. Consider using the title of your
+   talk as the pull request subject, as this makes the list of pull requests
+   enticing to read.
+
+NOTE: Please don't delete the example folder, as this will delete it in
+master when your pull request gets merged.
 
 You can add any type of assets to support your proposal inside your folder.
 When a talk gets accepted we will press the lovely green merge button.
