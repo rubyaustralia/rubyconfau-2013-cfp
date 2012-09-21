@@ -6,18 +6,16 @@ In this episode of CSI:Ruby, we follow two investigations that lead us deep into
 
 Upon the conclusion of our investigation, you will be equipped to systematically uncover flaws in design of your own code, allowing you to prevent its untimely demise.
 
-### Reactions to previous talks
+*Reactions to previous talks*
 
-> I wish @kytrinyx's session @cascadiaruby would never end. Therapeutic session is therapeutic. And executed perfectly! #cascadiaruby
-> - [@jc00ke](https://twitter.com/jc00ke/status/231499042662789122)
-
-
-> Brilliantly informative storytelling. @kytrinyx absolutely killed it in her refactoring talk at @nordicruby. My new idol.
-> - [@copiousfreetime](https://twitter.com/copiousfreetime/status/213604216529362944)
+> I wish @kytrinyx's session @cascadiaruby would never end. Therapeutic session is therapeutic. And executed perfectly! #cascadiaruby - [@jc00ke](https://twitter.com/jc00ke/status/231499042662789122)
 
 
-> I'm calling it: @kytrinyx wins #scotruby
-> - [listrophy](https://twitter.com/listrophy/status/219067597046546434)
+> Brilliantly informative storytelling. @kytrinyx absolutely killed it in her refactoring talk at @nordicruby. My new idol. - [@copiousfreetime](https://twitter.com/copiousfreetime/status/213604216529362944)
+
+
+> I'm calling it: @kytrinyx wins #scotruby - [listrophy](https://twitter.com/listrophy/status/219067597046546434)
+
 
 ## Katrina Owen
 
