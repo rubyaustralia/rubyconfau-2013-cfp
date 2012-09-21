@@ -17,13 +17,18 @@ What better way to submit a talk proposal than via GitHub!
    talk as the pull request subject, as this makes the list of pull requests
    enticing to read.
 
-NOTE: Please don't delete the example folder, as this will delete it in
+### Notes
+
+Please don't delete the example folder, as this will delete it in
 master when your pull request gets merged.
+
+Please submit a separate pull request for each proposal, as we may want to
+accept only one of the talks.
 
 You can add any type of assets to support your proposal inside your folder.
 When a talk gets accepted we will press the lovely green merge button.
 
-Note: We are allowing 45 minutes for each talk, including time for setup and questions. 
+We are allowing 45 minutes for each talk, including time for setup and questions. 
 Proposals will be accepted until 31 October, 2012.
 
 Credit: Kudos to [EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and 
