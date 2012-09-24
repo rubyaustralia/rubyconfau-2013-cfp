@@ -13,12 +13,22 @@ What better way to submit a talk proposal than via GitHub!
    and about yourself
 4. Replace the `profile_picture.jpg` with a picture of yourself that we
    can use to list you on the speakers page when you are accepted.
-5. Create a pull request of your fork
+5. Create a pull request of your fork. Consider using the title of your
+   talk as the pull request subject, as this makes the list of pull requests
+   enticing to read.
+
+### Notes
+
+Please don't delete the example folder, as this will delete it in
+master when your pull request gets merged.
+
+Please submit a separate pull request for each proposal, as we may want to
+accept only one of the talks.
 
 You can add any type of assets to support your proposal inside your folder.
 When a talk gets accepted we will press the lovely green merge button.
 
-Note: We are allowing 45 minutes for each talk, including time for setup and questions. 
+We are allowing 45 minutes for each talk, including time for setup and questions. 
 Proposals will be accepted until 31 October, 2012.
 
 Credit: Kudos to [EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and 
