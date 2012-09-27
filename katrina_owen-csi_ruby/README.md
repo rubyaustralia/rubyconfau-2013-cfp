@@ -4,7 +4,7 @@ The worst kind of legacy code is convoluted, labyrinthine, and devilishly diffic
 
 In this episode of CSI:Ruby, we follow an investigation that leads us deep into the fascinating underworld of disorganized crime, where we expose illegitimate connections between objects and the ways in which they conspire.
 
-Upon the conclusion of our investigation, you will be equipped to systematically uncover flaws in design of your own code, allowing you to prevent its untimely demise.
+Upon the conclusion of our investigation, you will be equipped to systematically perform investigations of your own, allowing you to objectively decide the fate of your code.
 
 *Reactions to previous talks*
 
