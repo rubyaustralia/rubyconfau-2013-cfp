@@ -23,6 +23,8 @@ I'm the Director of Infrastructure at Zendesk. I manage the teams responsible fo
 
 I grew up in New Zealand but have been working in Silicon Valley and San Francisco for 15 years. My focus has been on the development of extremely high volume internet applications, including My Yahoo!, Yahoo Mail, Google AdWords and now Zendesk.
 
+![Profile picture](https://raw.github.com/tsturge/rubyconfau-2013-cfp/master/how-rails-scales/profile_picture.jpg)
+
 The genesis of this talk is a [panel discussion](http://blog.newrelic.com/2012/07/02/more-on-managing-real-world-rails-apps-at-massive-scale-an-interview-with-tim-sturge-director-of-engineering-at-zendesk/)  [(video with controls)](http://blog.newrelic.com/2012/06/27/more-on-managing-real-world-rails-apps-at-massive-scale-an-interview-with-pitr-vernigorov-senior-architect-of-uken-games/) given at RailsConf in Austin Texas early in 2012. This discussion was well received and I realized as a result that there is desire in the Rails community to know more about how larger sites work.
 
 - [LinkedIn](http://www.linkedin.com/pub/tim-sturge/0/a2/409)
