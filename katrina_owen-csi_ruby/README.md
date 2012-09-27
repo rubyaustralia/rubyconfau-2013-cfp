@@ -2,7 +2,7 @@
 
 The worst kind of legacy code is convoluted, labyrinthine, and devilishly difficult to change. It also tells a dramatic story that is packed with valuable lessons about simplicity and constraints.
 
-In this episode of CSI:Ruby, we follow two investigations that lead us deep into the fascinating underworld of disorganized crime, where we expose illegitimate connections between objects and the ways in which they conspire.
+In this episode of CSI:Ruby, we follow an investigation that leads us deep into the fascinating underworld of disorganized crime, where we expose illegitimate connections between objects and the ways in which they conspire.
 
 Upon the conclusion of our investigation, you will be equipped to systematically uncover flaws in design of your own code, allowing you to prevent its untimely demise.
 
@@ -13,9 +13,7 @@ Upon the conclusion of our investigation, you will be equipped to systematically
 
 > Brilliantly informative storytelling. @kytrinyx absolutely killed it in her refactoring talk at @nordicruby. My new idol. - [@copiousfreetime](https://twitter.com/copiousfreetime/status/213604216529362944)
 
-
 > I'm calling it: @kytrinyx wins #scotruby - [listrophy](https://twitter.com/listrophy/status/219067597046546434)
-
 
 ## Katrina Owen
 
