@@ -4,13 +4,15 @@ My talk description.
 
 ## James Ladd
 
-I simply love writing code and trying to find new ways to improve my code
+James simply loves writing code and trying to find new ways to improve his code
 and to help others improve theirs. With over 30 years of commercial experience
-I have seen quite a few 'fads' come and go; used many languages 
+he has seen quite a few 'fads' come and go; used many languages 
 (Assembler, C/C++, Java, Javascript, Smalltalk, Ruby); worked with a wide
-variety of teams and projects, and even wrote my own implementation of
-Smalltalk (http://redline.st). Sharing my experiences and learning from
-others is what drives me.
+variety of teams and projects, and even wrote his own implementation of
+Smalltalk (http://redline.st). Sharing his experiences and learning from
+others is what drives him. Words like funny, sharp and likable are often used
+to describe James. If you get a chance to work through a problem with James 
+it is likely you will learn something new on the way through.
 
 ![Profile picture](https://raw.github.com/jamesladd/rubyconfau-2013-cfp/master/example/profile_picture.jpg)
 
