@@ -19,7 +19,7 @@ This is just a lightning talk. If given the opportunity to speak at your confere
 
 Currently a Rubyist at [Spreecast](http://www.spreecast.com). I am the author of [redis_failover](http://github.com/ryanlecompte/redis_failover). I'm interested in teaching others how to do cool things with Ruby outside of your normal Rails web development.
 
-![Profile picture](https://github.com/ryanlecompte/rubyconfau-2013-cfp/blob/master/example/profile_picture.jpg)
+![Profile picture](https://github.com/ryanlecompte/rubyconfau-2013-cfp/blob/master/RyanLeCompte-Handling_redis_failover_with_ruby_and_zookeeper/profile_picture.jpg)
 
 - [My twitter](https://twitter.com/ryanlecompte)
 - [Past talk slides](http://www.slideshare.net/ryanlecompte/handling-redis-failover-with-zookeeper)
