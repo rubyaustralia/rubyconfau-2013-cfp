@@ -10,7 +10,7 @@ how you can yield the power of Ruby and ZooKeeper to solve tough problems
 * How do you handle distributed monitoring among a set of Ruby processes?
 * How can you employ Ruby's flexibility to dynamically inject different failover
 strategies at runtime?
-* How can yo use Ruby's concurrency utilities (i.e., Threads) to solve tough problems?
+* How can you use Ruby's concurrency utilities (i.e., Threads) to solve tough problems?
 * How do you test a distributed system in Ruby?
 
 I think this will be an interesting talk for this conference. Developers are 
