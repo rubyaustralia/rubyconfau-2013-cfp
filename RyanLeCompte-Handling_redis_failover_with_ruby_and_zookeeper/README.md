@@ -1,4 +1,4 @@
-# Now for something entirely unrelated to web development: yielding Ruby and ZooKeeper to handle Redis failover!
+# Harnessing the power of Ruby and ZooKeeper to handle Redis failover
 
 Ruby developers typically use Ruby for web development with Rails. Most conference talks cover popular topics such as web development and testing. I want to invite the audience to engage in a journey that involves thinking about problems that most web developers don't face every day. In this talk, I'll explain how you can yield the power of Ruby and ZooKeeper to solve tough problems (specifically, using Redis failover as an example): 
 
