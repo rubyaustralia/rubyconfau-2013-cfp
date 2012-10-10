@@ -6,9 +6,9 @@ Ruby has catalyzed my rebirth as a software craftsman and being a Hashrocket App
 # Johnny Winn
 _A rugby player with a Ruby problem._
 
-I am a Hashrocket Rocketeer who has recently emerged from a decade in the .Net world with a reignited passion for software craftsmanship.
+I am a Rocketeer at Hashrocket who has recently emerged from a decade in the .Net world with a reignited passion for software craftsmanship.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/example/profile_picture.jpg)
+![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/johnny_winn-the_journeymans_path/profile_picture.jpg)
 
 - [My website](http://hashrocket.com/people/johnny-winn)
 - [My twitter](https://twitter.com/johnny_rugger)
