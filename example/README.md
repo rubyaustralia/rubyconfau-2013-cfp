@@ -24,7 +24,7 @@ He is working on Ruby and Open Source Technology for more than 10 years now. He 
 He helps TCSL clients solve their problem using Agile and Open Source frameworks.
 He has presented at various meet-ups and conferences including Ruby Conf in New Orleans and MongoDB Conf in Philly.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/example/profile_picture_amit.jpg)
+![Profile picture](https://github.com/toamitkumar/rubyconfau-2013-cfp/blob/master/example/profile_picture_amit.jpg)
 
 - [My website](http://toamitkumar.github.com)
 - [My twitter](https://twitter.com/toamit)
