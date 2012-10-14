@@ -18,7 +18,11 @@ Some 50 years on we are still trying to understand what makes a good Object-orie
 program and why we haven't got the promised benefits of reuse and easily understood and
 simple to maintain programs. In some circles we debate if OO is even necessary, turning to
 functional and procedural styles of programming. Some go so far as to say OO has failed!
-I put to you that OO has not failed us but it is us who have failed OO.
+I put it to you that OO has not failed us but it is us who have failed OO.
+ 
+-- how did we fail
+-- why did we fail
+-- how we can fix it
  
 
 ## James Ladd
