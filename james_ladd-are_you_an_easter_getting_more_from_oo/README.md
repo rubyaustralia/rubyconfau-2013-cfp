@@ -15,12 +15,11 @@ From here OOP spread dramatically into almost every corner of programming and pr
 languages.
 
 Some 50 years on we are still trying to understand what makes a good Object-oriented 
-program, why we haven't got the promised benefits of reuse and easily understood and
-simple to maintain programs. In some circles we debate if OO is even necessary, and 
-some say OO has failed. I put to you that OO has not failed but it is we who have 
-failed OO.
-
-  
+program and why we haven't got the promised benefits of reuse and easily understood and
+simple to maintain programs. In some circles we debate if OO is even necessary, turning to
+functional and procedural styles of programming. Some go so far as to say OO has failed!
+I put to you that OO has not failed us but it is us who have failed OO.
+ 
 
 ## James Ladd
 
