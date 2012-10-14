@@ -2,19 +2,18 @@
 
 RubyMotion has revolutionized native apps development platform for iOS devices. I would like to share some best practices/lessons learnt building apps using RubyMotion. This includes but not limited to:
 
-- IDE Support
+- What is RubyMotion
 - REPL
-- Using external ruby libraries and gems
+- Using Obj-C, native C, gems in your RubyMotion application
 - Using storyboard
 - DSL for views
 - ActiveRecord-like ORM for iOS
 - Testing storyboard interface (Rspec and TestUnit)
 - CocoaPods
-- Outlets and Actions
 - Dependency Management
 - Creating Gems
-- Building native Obj-C code
-- XCode integration - is it possible?
+- XCode integration
+- Continuous Integration
 - Releasing to AppStore
 - and others
 
