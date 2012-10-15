@@ -1,9 +1,13 @@
 # Are you an Easter? Getting more from OO
 
+TL;DR;
+
 This talk will show you how to get a lot more from OO, like increased reuse,
 writing a lot less code and making what you do write more easily understood
 and maintained. If you think you are doing OO then you want to see
 this talk.
+
+Overview:
 
 Objects and Object-oriented programming made their first appearance at MIT in the
 late 1950s and early 1960s. Some 40 years on we are still trying to understand what makes
