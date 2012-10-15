@@ -5,20 +5,13 @@ writing a lot less code and making what you do write more easily understood
 and maintained. If you think you are doing OO then you might just want to see
 this talk.
 
-Objects and Object-oriented programming make their first appearance at MIT in the
-late 1950s and early 1960s during work by researchers using LISP, a pure functional 
-programming language. From then until the 1980's Objects and OO programming concepts
-were largely used and extended exclusively by academic researchers. Then in the 
-1981 August edition of Byte magazine, Smalltalk, a pure Object Oriented programming
-environment and Object-oriented programming were introduced to a much wider audience.
-From here OOP spread dramatically into almost every corner of programming and programming
-languages.
-
-Some 50 years on we are still trying to understand what makes a good Object-oriented 
-program and why we haven't got the promised benefits of reuse and easily understood and
-simple to maintain programs. In some circles we debate if OO is even necessary, turning to
-functional and procedural styles of programming. Some go so far as to say OO has failed!
-I put it to you that OO has not failed us but it is us who have failed OO.
+Objects and Object-oriented programming made their first appearance at MIT in the
+late 1950s and early 1960s. Some 40 years on we are still trying to understand what makes
+a good Object-oriented program and why we haven't got the promised benefits of reuse and
+easily understood and simple to maintain programs. In some circles we debate if OO is even
+necessary, turning to functional and procedural styles of programming. Some go so far as 
+to say OO has failed! I put it to you that OO has not failed us but it is us who have 
+failed OO.
  
 -- how did we fail
 -- why did we fail
