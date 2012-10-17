@@ -22,7 +22,7 @@ Wrong information. Examples interpreted as 'best practice'. Lazy. Ignored princi
 Mis-interpreted principles.
 
 East Oriented Programming - An approach to modeling and implementing Objects will be 
-presented. The East approach defines a series of rules that ensure your Objects exhibit 
+presented. The East approach defines a small set of rules that ensure your Objects exhibit 
 the fundamental tenants of Object-oriented design making possible a significantly 
 higher level of reuse, maintainability and comprehension.
 
