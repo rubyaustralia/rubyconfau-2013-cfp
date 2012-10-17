@@ -7,7 +7,7 @@ writing a lot less code and making what you do write more easily understood
 and maintained. If you think you are doing OO then you want to see
 this talk.
 
-Overview:
+Outline:
 
 Objects and Object-oriented programming made their first appearance at MIT in the
 late 1950s and early 1960s. Some 40 years on we are still trying to understand what makes
@@ -16,11 +16,19 @@ easily understood and simple to maintain programs. Some debate if OO is even nec
 turning to functional and procedural styles of programming. Some go so far as to say 
 OO has failed! I put it to you that OO has not failed us but it is us who have failed
 OO.
- 
--- how did we fail
--- why did we fail
--- how we can fix it
- 
+
+-- how/why did we fail
+Wrong information. Examples interpreted as 'best practice'. Lazy. Ignored principles.
+Mis-interpreted principles.
+
+East Oriented Programming - An approach to modeling and implementing Objects will be 
+presented. The East approach defines a series of rules that ensure your Objects exhibit 
+the fundamental tenants of Object-oriented design making possible a significantly 
+higher level of reuse, maintainability and comprehension.
+
+Robert C. Martin "Uncle Bob", when introduced to East exclaimed "Go East, young developer,
+go East."
+
 
 ## James Ladd
 
@@ -36,7 +44,7 @@ others is what drives him.
 
 - [My website](http://www.jamesladdcode.com)
 - [My twitter](https://twitter.com/jamesladd)
-- [Redline Smalltalk - The Journey So Far](http://www.slideshare.net/seantallen/redline-smalltalk-the-journey-so-far)
+- [Video - Redline Smalltalk - The Journey So Far](http://www.slideshare.net/seantallen/redline-smalltalk-the-journey-so-far)
 - [Redline Smalltalk - The Journey So Far](http://www.redline.st/blog/2011/04/01/the-journey-so-far.html)
 - [Smalltalk on the JVM](http://www.slideshare.net/esug/smalltalk-on-the-jvm)
 - [Javascript/MVC/Maria and design](http://jamesladdcode.com/wp-content/uploads/2012/06/melbjs-maria-mvc-east.pdf)
