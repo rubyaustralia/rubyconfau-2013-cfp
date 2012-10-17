@@ -26,7 +26,7 @@ Context.
 He is open-source-dependant, he maintains several projects and he is Gemini and
 enjoys long walks and candle light lunches.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/bruno_aguirre-the_web_of_tomorrow/profile_picture.jpg)
+![Profile picture](https://raw.github.com/elcuervo/rubyconfau-2013-cfp/the-web-of-tomorrow/bruno_aguirre-the_web_of_tomorrow/profile_picture.jpg)
 
 - [My website](http://elcuervo.co)
 - [My twitter](https://twitter.com/cuerbot)
