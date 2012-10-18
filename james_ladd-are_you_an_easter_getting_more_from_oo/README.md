@@ -4,30 +4,21 @@ TL;DR;
 
 This talk will show you how to get a lot more from OO, like increased reuse,
 writing a lot less code and making what you do write more easily understood
-and maintained. If you think you are doing OO then you want to see
-this talk.
+and maintained. If you are doing OO then you want to see this talk.
 
-Outline:
+Snapshot:
 
 Objects and Object-oriented programming made their first appearance at MIT in the
 late 1950s and early 1960s. Some 40 years on we are still trying to understand what makes
-a good Object-oriented program and why we haven't got the promised benefits of reuse and
-easily understood and simple to maintain programs. Some debate if OO is even necessary, 
-turning to functional and procedural styles of programming. Some go so far as to say 
-OO has failed! I put it to you that OO has not failed us but it is us who have failed
-OO.
+a good Object-oriented program and why we haven't got the promised benefits. Why do reusable, 
+easily understood and simple to maintain programs continue to elude us? Some answer that
+OO has failed us and set off in search of alternatives. I answer that we have failed OO.
+How did we fail?
 
--- how/why did we fail
-Wrong information. Examples interpreted as 'best practice'. Lazy. Ignored principles.
-Mis-interpreted principles.
-
-East Oriented Programming - An approach to modeling and implementing Objects will be 
-presented. The East approach defines a small set of rules that ensure your Objects exhibit 
-the fundamental tenants of Object-oriented design making possible a significantly 
-higher level of reuse, maintainability and comprehension.
-
-Robert C. Martin "Uncle Bob", when introduced to East exclaimed "Go East, young developer,
-go East."
+In this talk, I will be presenting both how we have failed and how we can tame and master OO.
+An approach to modeling and implementing Objects. An approach I call East Oriented.
+Robert "Uncle Bob" Martin, when introduced to East exclaimed: "Go East, young developer, go East."
+What could cause a heavyweight of OO design to make such a proclamation? Come to my talk and find out.
 
 
 ## James Ladd
