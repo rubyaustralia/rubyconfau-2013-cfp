@@ -29,8 +29,7 @@ https://twitter.com/coreyhaines/status/249139749011476480
 https://twitter.com/objo/status/249166575293308928
 > Yes she should. RT @steveklabnik: Seriously, @kytrinyx should speak at your conf.
 
-
-*Reactions to previous talk*
+## Reactions to previous talk
 
 > I wish @kytrinyx's session @cascadiaruby would never end. Therapeutic session is therapeutic. And executed perfectly! #cascadiaruby - [@jc00ke](https://twitter.com/jc00ke/status/231499042662789122)
 
