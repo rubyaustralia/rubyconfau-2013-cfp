@@ -59,7 +59,7 @@ There are no unquestionable answers.
 There are no unanswerable questions.
 
 I'm from the San Francisco Bay Area where I've worked, professionally, for 4 years as a Systems Engineer.
-I was born the United States in California. I've known since the first time I used 
+I was born in California in the United States. I've known since the first time I used 
 a computer that I wanted to dedicate my life to the study of these machines. Not just
 the machines themselves but also to those who use them and of how
 to better shift their burden to the machine.
