@@ -5,11 +5,11 @@ Developers have struggled trying to find the most appropriate area to place logi
 in ERB led many developers to stow code at the front of the application. Then we began finding the views to difficult to maintain so we
 moved the logic into controllers or helpers. Eventually this also became difficult to maintain so we developed "best practices" like
 skinny controllers and fat models. Active Record domain models naturally become the dumping ground of logic within the system but sooner
-or later this leads to brittle systems.
+or later this leads to brittle, unmaintainable, bug filled systems.
 
 Coupling persistence, validation, advanced querying, and business logic all into the same class inevitably leads to extremely fat models
 with any system of significance. Skinny controllers are definitely worth striving for, but shoveling all of the business logic into a
-class that is already overburdened with persistence, querying, and validation is a recipe for disaster. When you find yourself using
+class that is already overburdened with with three other concerns is a recipe for disaster. When you find yourself using
 factories, fixtures, or mocks to construct 8 different class dependencies, it's time to admit that fat models are not a solution worth
 aspiring to.
 
@@ -26,7 +26,7 @@ distances and drink scotch, although not necessarily at the same time. Todd deli
 Test Double, a software studio in Columbus, Ohio.
 
 
-![Profile picture](https://github.com/tkaufman/rubyconfau-2013-cfp/blob/master/todd_kaufman-fat_ar_refactors/profile_picture.jpg)
+![Profile picture](https://github.com/tkaufman/rubyconfau-2013-cfp/master/todd_kaufman-fat_ar_refactors/profile_picture.jpg)
 
 - [My website](http://testdouble.com)
 - [My twitter](https://twitter.com/toddkaufman)
