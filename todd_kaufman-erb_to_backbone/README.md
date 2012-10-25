@@ -11,14 +11,13 @@ do we just slap a fresh coat of Cucumber on the problem to make sure that we fee
 behaves the way we think it should?
 
 As mature Rails applications are entering their third, fourth, or fifth year of maintenance, we are starting to see the need for a
-more mature, well factored solution to delivering rich client experiences. Backbone is one of many javascript frameworks that is
-currently looking to fill this void, but our solution should not be to just always start re-writing the application whenever we
-feel it is starting to fall over from it's own weight!
+more mature, well factored solution to delivering rich client experiences. Backbone is one of many javascript frameworks
+currently looking to fill this void, but do we really need to rewrite the system in backbone to achieve a maintainable system?
 
 This session will walkthrough some approaches for migrating an existing, legacy Rails view into a more maintainable, well factored
 Backbone solution that still leverages a Rails backend and API. We'll cover the approach from soup to nuts showing how to
 progressively refactor the untested ERBs, helper methods, javascript files, and other spaghetti into a well tested and easily maintained
-Coffeescript fueled Backbone view.
+Coffeescript fueled Backbone client.
 
 ## Todd Kaufman
 
