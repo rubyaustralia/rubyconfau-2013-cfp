@@ -26,7 +26,7 @@ distances and drink scotch, although not necessarily at the same time. Todd deli
 Test Double, a software studio in Columbus, Ohio.
 
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/todd_kaufman-fat_ar_refactor/profile_picture.jpg)
+![Profile picture](https://github.com/tkaufman/rubyconfau-2013-cfp/blob/master/todd_kaufman-fat_ar_refactors/profile_picture.jpg)
 
 - [My website](http://testdouble.com)
 - [My twitter](https://twitter.com/toddkaufman)
