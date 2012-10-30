@@ -1,3 +1,12 @@
+s = <<EOS
+This proposal is also executable ruby! Run:
+
+> ruby README.md
+
+It is also a quine!
+
+> ruby README.md | ruby | ruby | ...
+
 # Beautiful Ruby
 
 Ruby is beautiful. Ruby is Zen. We stride far from jargon and buzzwords,
@@ -24,3 +33,10 @@ and philosophies so he can bring their best parts back to ruby.
 ![Profile picture](https://raw.github.com/andykitchen/rubyconfau-2013-cfp/master/andy_kitchen-beautiful_ruby/profile_picture.jpg)
 
 - [My twitter](https://twitter.com/auastro)
+
+```
+EOS
+x="puts \"s = <<EOS\\n\#{s}EOS\\nx=\#{x.inspect}\\n\#{x}\\n__END__\\n```\""
+puts "s = <<EOS\n#{s}EOS\nx=#{x.inspect}\n#{x}\n__END__\n```"
+__END__
+```
