@@ -5,9 +5,11 @@ My talk description.
 ## Jon Rowe
 
 Tinker. Sailor. Developer. Spy? Probably not, but then he would say that
-if he were a spy. All we know is he develop's Ruby, and that he isn't
-called the Stig.
-
+if he were a spy. All we know is he develops in Ruby, and that he isn't
+called the Stig. Originally from the UK; Professionally a freelance Ruby
+developer, passionate about TDD, BDD and clean code. Travelling to
+Australia to experience life, work, and practise some lean startup. (Or
+maybe just avoiding the British winter.)
 
 ![Profile picture](http://www.gravatar.com/avatar/d79fc498d7a5b2ce12180890247476f0.png?s=200)
 
