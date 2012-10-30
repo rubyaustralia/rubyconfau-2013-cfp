@@ -1,10 +1,14 @@
 # Adventures in the hexagonal.
 
 I'm passionate about TDD. I hate slow tests. I write app's that work
-with Rails. I used to think 'tests,speed,rails' was a pick two problem,
-now I don't. I want to talk about building rails apps; how we can use
-hexagonal techniques to create better designed code, with looser
-coupling.
+with Rails. I used to think these three things, (tests,speed,rails) was
+a classic 'pick any two problem', now I don't.
+
+I want to talk about building Rails apps; how we can use
+hexagonal techniques to create code that is loosley coupled,
+isolated, and hopefully better designed; how we can use the existing
+Rails ecosystem to achieve this, hopefully present a few ideas on where
+we can take this and encourage discussion.
 
 ## Jon Rowe
 
