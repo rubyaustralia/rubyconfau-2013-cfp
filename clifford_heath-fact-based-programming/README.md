@@ -6,9 +6,10 @@ The same happens when we design relational databases, except worse, especially
 if we're using Active Record.
 
 Although Ruby uses objects for attribute values, many values have their own
-behaviours, which should not get forced into owner objects.  Meaningless object
-identifiers and surrogate DB keys (isolated from attribute values) also create
-data quality problems like data duplication and contradiction.
+behaviours. These behaviours should not be forced into owner objects.
+Meaningless object identifiers and surrogate DB keys (isolated from attribute
+values) also create data quality problems like data duplication and
+contradiction.
 
 This talk shows how a fact-based approach to programming can avoid these
 problems.  Unlike an object, a fact cannot be duplicated, just re-asserted -
