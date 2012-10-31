@@ -1,6 +1,6 @@
-# My Talk Title
+# DSLs for Fun and Profit
 
-My talk description.
+Domain-specific languages (DSLs) are a great way to make your code more expressive, and Ruby is a fantasic languages for writing DSLs.  This talk will cover the meta-programming techniques typically used to implement DSLs in Ruby.  We'll cover both "internal" (pure Ruby) and "external" DSLs, and peer into the implementation of several popular DSLs (ActiveRecord, RSpec, Cucumber) to see how they work.
 
 ## Mike Williams
 
