@@ -11,7 +11,11 @@ Perhaps RubyConf Australia will see the mythical man-month itself turn into a my
 
 The title of the talk is pronounced "ULTRA. PAIR. PROGRAMMING."
 
-## My Name
+## Andy Kitchen
+
+
+
+## Florian Hanke
 
 A world traveling Swiss guy, currently in Melbourne, doing a PhD on "Preserving Languages using social media and mobile support". I like being outdoors (trying to climb Mt. Koz each winter), and also eating myself through the culinary greats of Melbourne. Presented at Roro Melbourne and large conferences many times.
 
