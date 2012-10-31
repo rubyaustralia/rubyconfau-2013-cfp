@@ -1,8 +1,8 @@
 # Fact-based programming using the ActiveFacts API
 
 Natural descriptions of real situations are expressed using facts about things.
-By dividing things into objects and attributes, programmers create unnatural
-abstractions. It's not enough that Ruby uses objects for attribute values.
+Dividing things into objects and attributes (as programmers do) creates unnatural
+abstractions. It's not enough compensation that Ruby uses objects for attribute values.
 Relevant behaviours of these values usually get forced into their owner object.
 Meaningless object identifiers (isolated from attribute values) also create problems.
 
