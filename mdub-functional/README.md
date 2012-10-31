@@ -1,6 +1,10 @@
-# My Talk Title
+# Don't change a thing. Just be lazy.
 
-My talk description.
+What lessons can we learn from functional languages?  
+
+This talk concentrates on two techniques common in functional programming: *immutable data*, and *lazy evaluation*.
+
+We'll look at how such techniques can be implemented in Ruby, and examine how they can improve performance, support thread-safety, ease testing, and reduce bugs.
 
 ## Mike Williams
 
