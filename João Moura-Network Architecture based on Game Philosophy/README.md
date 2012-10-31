@@ -15,7 +15,7 @@ It won't gonna be a only theoretical talk, the majority of examples will be in R
 My name is João Moura, I’m a Brazilian developer, currently living in São Paulo, working on Codeminer42 as consultant and developer w/ systems engineering. 
 I'm also an enthusiast technologist that love open source development. I have already spoken in some events around the world like in Brazil and Italy (http://rubyday.it/talks/11/), and I really would like to have the opportunity to be one of the speakers in RubyConf Australia 2013 and try to surprise you guys.
 
-![Profile picture](https://raw.github.com/joaomdmoura/rubyconfau-2013-cfp/master/example/profile_picture.jpg)
+![Profile picture](https://raw.github.com/joaomdmoura/rubyconfau-2013-cfp/master/Joa%CC%83o%20Moura-Network%20Architecture%20based%20on%20Game%20Philosophy/profile_picture.jpg)
 
 - [My website](http://joaomdmoura.com)
 - [My twitter](https://twitter.com/joaodmmoura)
