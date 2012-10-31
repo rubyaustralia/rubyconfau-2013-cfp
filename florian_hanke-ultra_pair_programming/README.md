@@ -1,6 +1,6 @@
 # Ultra Pair Programming
 
-This talk will be held together with Andy Kitchen.
+This talk will be held together with Andy Kitchen and it is a live crowsourcing experiment.
 
 By now you all know pair programming and its advantages.
 What if you add more people? What if you split up a bigger problem into many small ones and people compete or collaborate in real time to improve the code? What if you visualize progress on a big screen? Add in some social media features for motivation and stir.
@@ -10,10 +10,6 @@ This talk is will either excite, be hilarious, or fail utterly. In any case it w
 Perhaps RubyConf Australia will see the mythical man-month itself turn into a myth?
 
 The title of the talk is pronounced "ULTRA. PAIR. PROGRAMMING."
-
-## Andy Kitchen
-
-
 
 ## Florian Hanke
 
