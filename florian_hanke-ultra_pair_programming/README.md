@@ -24,7 +24,11 @@ and philosophies so he can bring their best parts back to ruby.
 
 ## Florian Hanke
 
-A world traveling Swiss guy, currently in Melbourne, doing a PhD on "Preserving Languages using social media and mobile support". I like being outdoors (trying to climb Mt. Koz each winter), and also eating myself through the culinary greats of Melbourne. Presented at Roro Melbourne and large conferences many times.
+A world traveling Swiss guy, currently in Melbourne, doing a PhD on
+"Preserving Languages using social media and mobile support".
+I like being outdoors (trying to climb Mt. Koz each winter),
+and also eating myself through the culinary greats of Melbourne.
+Presented at Roro Melbourne and large conferences many times.
 
 ![Profile picture](http://www.gravatar.com/avatar/de2d64478e715fb02266f77a3f5641f6?size=160)
 
