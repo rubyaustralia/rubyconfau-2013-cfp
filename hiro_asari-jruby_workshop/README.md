@@ -9,6 +9,7 @@ Topics we will cover
 1. JRuby overview: installation, getting started
 1. Java and Ruby integration: loading and calling libraries
 1. JRuby on Rails: building and deploying
+1. JRuby for fun and more fun: Minecraft plugin with [Purugin](https://github.com/enebo/Purugin)
 1. JRuby debugging: finding problems
 
 Attendees should have a Java VM installed (Java 6 or higher) and have
