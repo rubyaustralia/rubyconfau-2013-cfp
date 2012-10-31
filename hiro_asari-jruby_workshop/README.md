@@ -4,10 +4,16 @@ JRuby is a Ruby language implementation on the JVM. The JRuby core team
 members Charles Oliver Nutter and Hiro Asari lead the first JRuby
 workshop in the Southern Hemisphere.
 
-1. JRuby overview
-1. Java and Ruby integration
-1. JRuby on Rails
-1. JRuby debugging
+Topics we will cover
+
+1. JRuby overview: installation, getting started
+1. Java and Ruby integration: loading and calling libraries
+1. JRuby on Rails: building and deploying
+1. JRuby debugging: finding problems
+
+Attendees should have a Java VM installed (Java 6 or higher) and have
+familiarity with the basics of Ruby. RVM will make installation easier,
+but it is not required.
 
 ## Charles Oliver Nutter
 
