@@ -10,9 +10,8 @@ Meaningless object identifiers (isolated from attribute values) also create prob
 
 This talk shows how a fact-based approach to programming can avoid these problems.
 The constellation data structure implemented by the activefacts-api (gem) provides
-a radical new approach to thinking about data semantics and program function.
-This gem is the core of a new database definition and query language (CQL) and
-a new O/RM (under development) which completely re-thinks data semantics.
+a radical new approach to data semantics and program function, and is the core of a
+new database definition and query language (CQL) and a new O/RM (under development).
 
 ## Clifford Heath
 
