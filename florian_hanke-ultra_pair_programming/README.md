@@ -11,6 +11,17 @@ Perhaps RubyConf Australia will see the mythical man-month itself turn into a my
 
 The title of the talk is pronounced "ULTRA. PAIR. PROGRAMMING."
 
+## Andy Kitchen
+
+Andy Kitchen is a rubist, an avid functional programmer and a technologist.
+In one life he pursues research in computational theory, while in the other
+developing applications in Ruby. He wants to visit many different languages
+and philosophies so he can bring their best parts back to ruby.
+
+![Profile picture](https://raw.github.com/andykitchen/rubyconfau-2013-cfp/master/andy_kitchen-beautiful_ruby/profile_picture.jpg)
+
+- [My twitter](https://twitter.com/auastro)
+
 ## Florian Hanke
 
 A world traveling Swiss guy, currently in Melbourne, doing a PhD on "Preserving Languages using social media and mobile support". I like being outdoors (trying to climb Mt. Koz each winter), and also eating myself through the culinary greats of Melbourne. Presented at Roro Melbourne and large conferences many times.
