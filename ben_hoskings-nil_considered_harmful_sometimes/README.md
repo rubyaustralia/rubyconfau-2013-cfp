@@ -1,6 +1,10 @@
-# My Talk Title
+# nil considered harmful (sometimes)
 
-My talk description.
+It's frustrating to work on a flaky codebase. Ruby is a permissive language -- it gives you the tools to program as brilliantly or as awfully as you want to.
+
+It's my view that one of ruby's most misused components is nil. By leaning heavily on ruby's functional side and avoiding nil (and judiciously unit testing), you can write maintainable code that fails fast, and fails in the right direction.
+
+I'll make the case for eschewing nil and talk through some examples. I'll go into the parallels on the database side, too: how you can design your schema to avoid NULL and map it cleanly to simple, reliable ruby.
 
 
 ## Ben Hoskings
