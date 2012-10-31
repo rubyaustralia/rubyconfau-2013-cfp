@@ -32,7 +32,7 @@ Outside of work he enjoys photography, whisk[e]y, singing (everything from
 karaoke to occasional performances with the TSO Chorus), and spending time
 with his wife and four young boys.
 
-![Profile picture](https://raw.github.com/johndalton/rubyconfau-2013-cfp/master/pessimism_as_a_path_to_happiness/profile_picture.jpg)
+![Profile picture](https://raw.github.com/johndalton/rubyconfau-2013-cfp/pessimism/pessimism_as_a_path_to_happiness/profile_picture.jpg)
 
 - [twitter](https://twitter.com/johndalton)
 - [ADN](https://alpha.app.net/johndalton)
