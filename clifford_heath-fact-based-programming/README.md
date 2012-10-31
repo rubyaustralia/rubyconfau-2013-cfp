@@ -4,7 +4,7 @@ We describe real situations using facts about things. So why do we allow
 object-orientation to force us to divide things into objects and attributes?
 
 It's not enough compensation that Ruby uses objects for attribute values.  Many
-values have their own behaviours, which should not get forced into owner object.
+values have their own behaviours, which should not get forced into owner objects.
 Meaningless object identifiers (isolated from attribute values) also create problems.
 
 This talk shows how a fact-based approach to programming can avoid these problems.
