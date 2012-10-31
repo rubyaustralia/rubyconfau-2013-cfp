@@ -21,11 +21,11 @@ language (CQL) and a new O/RM (under development).
 ## Clifford Heath
 
 Clifford has been a software designer and toolmaker for three decades, having
-been inventor and architect of multiple major software products that have won
-over a hundred million export dollars for Australia.  He was also one of the
-first Australians to make the switch to Ruby, and his gem downloads outnumber
-any other Australian author. His work in semantic (fact-based) modelling holds
-enormous promise for a renewal of trust in the IT industry by its clients.
+been inventor and architect of multiple major software products that have brought
+over a hundred million dollars into Australia.  He was also one of the first
+locals to make the switch to Ruby, and his gem downloads outnumber any other
+Australian author. His work in semantic (fact-based) modelling holds enormous
+promise for a renewal of trust in the IT industry by its clients.
 
 ![Profile picture](https://raw.github.com/cjheath/rubyconfau-2013-cfp/master/clifford_heath-fact-based-programming/profile_picture_640x480.jpg)
 
