@@ -1,17 +1,21 @@
 # Fact-based programming using the ActiveFacts API
 
-We describe real situations using facts about things. So why do we allow
+We talk about real situations using facts about things. So why do we allow
 object-orientation to force us to divide things into objects and attributes?
-The same happens when we design relational databases, except worse.
+The same happens when we design relational databases, except worse, especially
+if we're using Active Record.
 
-It's not enough compensation that Ruby uses objects for attribute values.  Many
-values have their own behaviours, which should not get forced into owner objects.
-Meaningless object identifiers (isolated from attribute values) also create problems.
+Although Ruby uses objects for attribute values, many values have their own
+behaviours, which should not get forced into owner objects.  Meaningless object
+identifiers and surrogate DB keys (isolated from attribute values) also create
+data quality problems like data duplication and contradiction.
 
-This talk shows how a fact-based approach to programming can avoid these problems.
-The constellation data structure implemented by the activefacts-api (gem) provides
-a radical new approach to data semantics and program function, and is the core of a
-new database definition and query language (CQL) and a new O/RM (under development).
+This talk shows how a fact-based approach to programming can avoid these
+problems.  Unlike an object, a fact cannot be duplicated, just re-asserted -
+it's still the same fact.  The constellation data structure implemented by
+the activefacts-api (gem) provides a radical new approach to data semantics
+and program function, and is the core of a new database definition and query
+language (CQL) and a new O/RM (under development).
 
 ## Clifford Heath
 
