@@ -4,7 +4,7 @@ Information is one of the most valuable assets of the modern day organisation. A
 
 Hacker's Quest is a presentation that demonstrates the process of hacking into a fictional Ruby on Rails web application. The presentation highlights common web application security vulnerabilities, shows how these vulnerabilities can be exploited and how we can protect against these in our Ruby code. We'll hack deeper into the application in several stages, pausing after every stage to summarise the learnings.
 
-Hacker's Quest will introduce the audience to web application security principles, a few "hacker" tools and how to think like a "hacker". The demonstration will illustrate how to bypass authentication, steal user credentials, read confidential data from the database, upload malicious code and execute commands on the server - and also how to prevent all this from happening in our Ruby code.
+Hacker's Quest will introduce the audience to web application security principles, a few "hacker" tools and how to think like a "hacker". The demonstration will illustrate how to bypass authentication, steal user credentials, read confidential data from the database, upload malicious code and execute commands on the server - and also how to protect our Ruby applications against all this.
 
 # Siebert Lubbe
 
