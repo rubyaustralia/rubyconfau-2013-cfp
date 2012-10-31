@@ -1,9 +1,10 @@
 # Fact-based programming using the ActiveFacts API
 
-Natural descriptions of real situations are expressed using facts about things.
-Dividing things into objects and attributes (as programmers do) creates unnatural
-abstractions. It's not enough compensation that Ruby uses objects for attribute values.
-Relevant behaviours of these values usually get forced into their owner object.
+We describe real situations using facts about things. So why do we allow
+object-orientation to force us to divide things into objects and attributes?
+
+It's not enough compensation that Ruby uses objects for attribute values.  Many
+values have their own behaviours, which should not get forced into owner object.
 Meaningless object identifiers (isolated from attribute values) also create problems.
 
 This talk shows how a fact-based approach to programming can avoid these problems.
@@ -19,7 +20,7 @@ first Australians to make the switch to Ruby, and his gem downloads outnumber
 any other Australian author. His work in semantic (fact-based) modelling holds
 enormous promise for a renewal of trust in the IT industry by its clients.
 
-![Profile picture](https://raw.github.com/cjheath/rubyconfau-2013-cfp/master/clifford_heath-fact-based-programming/profile_picture.jpg)
+![Profile picture](https://raw.github.com/cjheath/rubyconfau-2013-cfp/master/clifford_heath-fact-based-programming/profile_picture_640x480.jpg)
 
 - [My website](http://dataconstellation.com)
 - [My twitter](https://twitter.com/cliffordheath)
