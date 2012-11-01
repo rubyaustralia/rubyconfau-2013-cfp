@@ -9,10 +9,11 @@ Much of the Ruby community blindly trusts our gems. This talk will make you seco
 ## Notes
 
 There are four malicious gems I will be presenting:
-1) Harvesting passwords from requests going through a Rails app
-2) Exposing the contents of a Rails app's database
-3) Compromising the source code of a Rails app
-4) Providing SSH access to a box a 'gem install' time and stealing gem cutter credentials (and going viral)
+
+- Harvesting passwords from requests going through a Rails app
+- Exposing the contents of a Rails app's database
+- Compromising the source code of a Rails app
+- Providing SSH access to a box a 'gem install' time and stealing gem cutter credentials (and going viral)
 
 My talk will increase awareness that these sort of gems can exist in the wild, show how easy it is for anyone to build malicious gems, and give easy techniques for identifying these gems.
 
@@ -22,7 +23,7 @@ At Aloha Ruby Conf I also wrote a "malicious" gem and social engineered people i
 
 Benjamin Smith is a developer at Pivotal Labs. He has a strong passion for TDD, pairing, Agile and using technologies that get out of the programmer's way. When not writing code, he follows his other passions into the outdoors to rock climb, back country snowboard, kayak and surf.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/profile_pic.jpg/profile_picture.jpg)
+![Profile picture](https://raw.github.com/benjaminleesmith/rubyconfau-2013-cfp/master/hacking_with_gems/profile_picture.jpg)
 - [My website](http://pivotallabs.com/users/bsmith/blog)
 - [My twitter](https://twitter.com/benjamin_smith)
 - [Past talk slides](https://speakerdeck.com/u/benjaminleesmith/p/hacking-with-gems)
