@@ -1,6 +1,6 @@
 # Security: a few terms, a few secrets, and a few hard truths
 
-Remember how we all laughed when hackers got al the plaintext passwords for
+Remember how we all laughed when hackers got all the plaintext passwords for
 the Playstation Network? Ever want to be in that position?  Me neither.
 
 So how do we avoid mishaps? Before we can secure our applications we must
