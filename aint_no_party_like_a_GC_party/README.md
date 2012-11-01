@@ -1,4 +1,4 @@
-# My Talk Title
+# Ain't no party like a GC party
 
 Ruby 1.9 and JRuby offer the ability to tune garbage collection parameters.
 What does that mean and why would you want to do it?
