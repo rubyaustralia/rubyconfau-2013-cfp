@@ -19,7 +19,7 @@ Francisco.  After a journey through more programming languages than he can
 count, Mike settled on Ruby to fill the hours between breakfast and queuing up
 an early Black Sabbath album.
 
-![Profile picture](https://raw.github.com/mkb/rubyconfau-2013-cfp/master/aint_no_party_like_a_GC_party/profile_picture.jpg)
+![Profile picture](https://raw.github.com/mkb/rubyconfau-2013-cfp/security/security_a_few_terms_a_few_secrets_and_a_few_hard_truths/profile_picture.jpg)
 
 - [My website](http://mojinations.com)
 - [My twitter](https://twitter.com/mojinations)
