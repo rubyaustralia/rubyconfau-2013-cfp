@@ -18,6 +18,8 @@ See [cczona.com/talks](http://cczona.com/talks/) for abstracts and slides for mo
   > "Inspirational challenges to the community"
 —[Alex Chaffee](https://twitter.com/alexch/status/248118835130019843)
 
+  > "...surprisingly mind-expanding...a breath of fresh air..." [Avdi Grimm](http://devblog.avdi.org/2012/11/19/on-britruby/)
+
   > "Loved, loved, loved your talk. You walked right through the issue and sorted it out definitively. Thank you"
   —[Jack Danger Canty](https://twitter.com/jackdanger/statuses/247231593108873216)
 
