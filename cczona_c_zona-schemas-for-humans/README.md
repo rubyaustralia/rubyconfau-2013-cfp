@@ -18,6 +18,8 @@ See [cczona.com/talks](http://cczona.com/talks/) for abstracts and slides for mo
   > "Inspirational challenges to the community"
 —[Alex Chaffee](https://twitter.com/alexch/status/248118835130019843)
 
+  > “‘Schemas For The Real World’ was one of the few moments in a tech-heavy conference that acknowledged our users are real people with motivations that extend beyond our own business concerns — an important point too often glossed over for simplicity or convenience.” —Josh French
+
   > "...surprisingly mind-expanding...a breath of fresh air..." [Avdi Grimm](http://devblog.avdi.org/2012/11/19/on-britruby/)
 
   > "Loved, loved, loved your talk. You walked right through the issue and sorted it out definitively. Thank you"
@@ -30,7 +32,8 @@ See [cczona.com/talks](http://cczona.com/talks/) for abstracts and slides for mo
 
 ## Carina C. Zona
 
-[Carina C. Zona](http://cczona.com) is a San Francisco web developer and a senior organizer of [RailsBridge](http://railsbridge.org) core team. She is a tech educator for outreach groups including RailsBridge, [RailsGirls](http://railsgirls.com/), [PyLadies](http://www.pyladies.com/), [Girl Develop It](http://girldevelopit.com/). She is also a certified sex educator. She thinks a lot about how these overlap. 
+[Carina C. Zona](http://cczona.com) is a San Francisco web developer and a senior organizer of [RailsBridge](http://railsbridge.org) core team. She is a tech educator for outreach groups including RailsBridge, [RailsGirls](http://railsgirls.com/), [PyLadies](http://www.pyladies.com/), [Girl Develop It](http://girldevelopit.com/). She is also a certified sex educator. She thinks a lot about how these overlap.
+
 
 ![headshot](./profile_picture.jpg "Carina C. Zona")
 
