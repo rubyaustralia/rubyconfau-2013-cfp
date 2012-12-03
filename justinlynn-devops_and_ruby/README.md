@@ -64,6 +64,8 @@ a computer that I wanted to dedicate my life to the study of these machines. Not
 the machines themselves but also to those who use them and of how
 to better shift their burden to the machine.
 
+I am currently the Director of Technology Operations at Mavenlink, Inc.
+
 ![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/justinlynn-devops_and_ruby/profile_picture.jpg)
 
 - [My website](http://www.jaesharp.com/)
