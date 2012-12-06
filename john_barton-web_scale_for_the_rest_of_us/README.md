@@ -17,16 +17,17 @@ Topics covered will (probably) include:
   * How you balance your cost-speed-quality stool for developing your app up against the same cost-speed-quality tripod for your infrastructure
   * Why other people's advice on the topic can only ever provide a starting point, not a final answer
 
-
 ## John Barton
 
 John Barton is, as yet, unaccustomed to writing in the third person. 
 
-He is the co-founder of and chief tech guy for the world's greatest social film review site [Goodfilms](http://goodfil.ms), and was the development manager for the [Envato](http://envato.com) Marketplaces team. 
+He is the co-founder of and chief tech guy for the world's greatest social film review site [Goodfilms](http://goodfil.ms), and formerly worked on the [Envato](http://envato.com) Marketplaces team. 
 
-For Envato, he grew the Marketplaces project from a three dev team, with one [mildly popular flash component marketplace](http://activeden.net), with around forty thousand users all the way to a nine marketplace set (including one [wildly popular web theme marketplace](http://themeforest.net)), with a team of around 10 developers, and well past a million registered users. For Goodfilms, well there was that one time we sat on the Reddit frontpage overnight.
+For Envato, he joined the Marketplaces as one of three developers, with one [mildly popular flash component marketplace](http://activeden.net) and around forty thousand registered users. He then helped launch a couple more marketplaces (including one [wildly popular web theme marketplace](http://themeforest.net)), before being passed the reigns as development manager and growing the team to around 10 developers, 9 Marketplaces, and well over a million registered users on the service. 
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/john_barton-web_scale_for_the_rest_of_us/profile_picture.jpg)
+For Goodfilms, well there was that one time we sat on the Reddit frontpage overnight.
+
+![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2013-cfp/master/john_barton-web_scale_for_the_rest_of_us/profile-picture.jpg)
 
 - [My website](http://whoisjohnbarton.com)
 - [My twitter](https://twitter.com/johnbarton)
