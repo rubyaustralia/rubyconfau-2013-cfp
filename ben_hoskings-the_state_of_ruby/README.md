@@ -1,5 +1,9 @@
 # The state of ruby
 
+Every year is an eventful one in ruby. Many rubies have been polished this year, and many new ones have been cut.
+
+I'll take us through the state of things in MRI, jruby, rubinius and friends, and what we can expect from them next year, particularly in regards to ruby 2.0, which is scheduled for release just a couple of days after rubyconf au.
+
 
 ## Ben Hoskings
 
