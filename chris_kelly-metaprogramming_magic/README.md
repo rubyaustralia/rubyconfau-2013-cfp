@@ -1,13 +1,12 @@
-# Down the rb_newobj() Rabbit Hole: Garbage Collection in Ruby
+# Metaprogramming Magic
 
-New Relic recently made the big move to Ruby 1.9.3 which showed meaningful
-improvements over 1.8, particularly in garbage collection. So this talk is 
-taking a look at what changed in Ruby's garbage collection that caused much 
-of the improvements. We will start with the fundamentals of garbage collection 
-but work down to the nitty gritty C code to get to the details of what's going 
-on, starting with rb_newobj(). You should walk away with an understanding of how
-garbage collection works in MRI and a nice appreciation for the overall
-lifecycle of Ruby objects.
+Ever wonder how New Relic manages to get all that information about your
+application's performance with just a gem and no additional code? Wonder no more! 
+I'll reveal the various 'magic' that we use to extract piles of performance data 
+and do so with as little performance impact as possible. You'll see our 
+metaprogramming tricks as well as look under the hood at both Ruby and Rails 
+internals to see what info they provide out of the box. Of course, you could just 
+go look at the gem source code yourself for all of this, but whose got time for that?
 
 ## Chris Kelly
 
